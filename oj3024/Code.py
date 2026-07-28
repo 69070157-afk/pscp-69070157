@@ -1,7 +1,7 @@
 '''PAP8'''
 
 al = float(input())
-hi = float(input())                                                                                                                                                                                                  
+hi = float(input())
 e1 = al - hi
 for i in range(int(hi),-1,-1) :
     if e1 - float(i) >= 0 :
